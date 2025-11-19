@@ -1,0 +1,20 @@
+[
+  {
+    "id": "41a62dba-8991-4a85-ac3d-4fd84c437149",
+    "title": "Teclado Rojo",
+    "description": "Teclado Inalambrico",
+    "stock": 2,
+    "code": "1221FR3",
+    "price": 500,
+    "thumbnail": ""
+  },
+  {
+    "id": "64e652b8-1577-440e-99f6-6f895c9f4efc",
+    "title": "Auriculares",
+    "description": "Auriculares Inalambrico",
+    "stock": 18,
+    "code": "1221FR5",
+    "price": 660,
+    "thumbnail": ""
+  }
+]
