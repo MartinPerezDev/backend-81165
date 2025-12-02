@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Teclado Logitech",
+    "price": 5000,
+    "thumbnail": "/img/teclado.png"
+  },
+  {
+    "id": 2,
+    "title": "Mouse Redragon",
+    "price": 3500,
+    "thumbnail": "/img/mouse.png"
+  },
+  {
+    "id": "98b60770-b79d-4581-8908-57af1b53860f",
+    "title": "Auriculares Rojos",
+    "price": 1400,
+    "thumbnail": ""
+  },
+  {
+    "id": "9cea5b12-6c40-41e8-8ab8-ac9bbd3bc0c5",
+    "title": "Parlantes Azules",
+    "price": 4500,
+    "thumbnail": "/img/1764115157124-dog.jpg"
+  }
+]
